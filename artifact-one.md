@@ -42,36 +42,34 @@ nav_order: 3
 
 <h2>Screenshots</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
 
-  <div style="width:45%; text-align:center;">
-    <img src="assets/dashboard_overview.png" style="width:400px; max-width:100%; border-radius:10px;">
-    <p style="font-size: 0.85rem; color: #9ca3af; margin-top:8px;">
+  <div style="flex: 0 0 45%; text-align:center;">
+    <img src="assets/dashboard_overview.png" style="width:100%; max-width:380px; border-radius:10px;">
+    <p style="font-size: 0.8rem; color: #9ca3af; margin-top:6px; max-width:380px; margin-left:auto; margin-right:auto;">
       Dashboard homepage showing navigation between Dashboard, Analytics, and Admin Login pages.
     </p>
   </div>
 
-  <div style="width:45%; text-align:center;">
-    <img src="assets/admin_login.png" style="width:400px; max-width:100%; border-radius:10px;">
-    <p style="font-size: 0.85rem; color: #9ca3af; margin-top:8px;">
+  <div style="flex: 0 0 45%; text-align:center;">
+    <img src="assets/admin_login.png" style="width:100%; max-width:380px; border-radius:10px;">
+    <p style="font-size: 0.8rem; color: #9ca3af; margin-top:6px; max-width:380px; margin-left:auto; margin-right:auto;">
       Admin login required before accessing secure features.
     </p>
   </div>
 
-  <div style="width:45%; text-align:center;">
-    <img src="assets/create_record.png" style="width:400px; max-width:100%; border-radius:10px;">
-    <p style="font-size: 0.85rem; color: #9ca3af; margin-top:8px;">
+  <div style="flex: 0 0 45%; text-align:center;">
+    <img src="assets/create_record.png" style="width:100%; max-width:380px; border-radius:10px;">
+    <p style="font-size: 0.8rem; color: #9ca3af; margin-top:6px; max-width:380px; margin-left:auto; margin-right:auto;">
       Create record form demonstrating structured data input.
     </p>
   </div>
 
-  <div style="width:45%; text-align:center;">
-    <img src="assets/edit_delete.png" style="width:400px; max-width:100%; border-radius:10px;">
-    <p style="font-size: 0.85rem; color: #9ca3af; margin-top:8px;">
+  <div style="flex: 0 0 45%; text-align:center;">
+    <img src="assets/edit_delete.png" style="width:100%; max-width:380px; border-radius:10px;">
+    <p style="font-size: 0.8rem; color: #9ca3af; margin-top:6px; max-width:380px; margin-left:auto; margin-right:auto;">
       Edit and delete functionality for managing existing records.
     </p>
   </div>
-
-</div>
 
 </div>
