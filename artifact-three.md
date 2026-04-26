@@ -42,6 +42,18 @@ nav_order: 5
 
 </div>
 
+<h3>Project Repository</h3>
+
+<p>
+This project is available on GitHub, including the original implementation, enhanced version, and supporting milestone submissions.
+</p>
+
+<p>
+<a href="https://github.com/Jerris88/CS499-Capstone" target="_blank">
+View Full CS499 Capstone Project on GitHub
+</a>
+</p>
+
 <hr style="border: none; height: 1px; background: #374151; margin: 35px 0;">
 
 <h2>Screenshots</h2>
