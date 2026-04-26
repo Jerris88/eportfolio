@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/profile.jpg" width="140" style="border-radius: 12px;">
+</p>
+
+<p align="center">
+  <strong>Jerris English</strong><br>
+  Computer Science | Data Analysis | Software Development
+</p>
+
 # Jerris English
 
 ## Computer Science Capstone ePortfolio
