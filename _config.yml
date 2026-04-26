@@ -1,7 +1,9 @@
 title: Jerris English
 description: CS499 Computer Science Capstone ePortfolio
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: just-the-docs/just-the-docs
 
-plugins:
-  - jekyll-include-cache
+color_scheme: light
+
+nav_enabled: true
+search_enabled: false
