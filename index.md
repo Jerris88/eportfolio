@@ -14,4 +14,6 @@
 
 ## Introduction
 
-*This section will introduce the portfolio and its purpose.*
+My name is Jerris English, and I am currently finishing my Bachelor’s degree in Computer Science at SNHU. Throughout the program, I have worked on a range of projects that helped me build practical experience in software development and data analysis.
+
+This portfolio focuses on my CS499 capstone project. The goal of this project was to take an existing application and improve it in multiple areas. Each section of this portfolio represents a different enhancement, showing how the project was expanded and refined over time.
