@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 <div style="text-align: center; margin-bottom: 45px;">
 
   <img src="assets/profile.JPG" width="150" style="border-radius: 12px; margin-bottom: 20px;">
