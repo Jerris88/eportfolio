@@ -4,10 +4,6 @@ title: Artifact One – Software Engineering
 nav_order: 3
 ---
 
-# Artifact One
-
-## Software Design and Engineering
-
 <div style="background: rgba(255,255,255,0.035); border: 1px solid rgba(255,255,255,0.10); border-radius: 12px; padding: 24px; margin-bottom: 34px;">
 
 <h1>Artifact One</h1>
