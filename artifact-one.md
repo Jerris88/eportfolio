@@ -45,28 +45,28 @@ nav_order: 3
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
 
   <div style="width:45%; text-align:center;">
-    <img src="assets/dashboard_overview.png" style="width:100%; max-width:420px; border-radius:10px;">
+    <img src="assets/dashboard_overview.png" style="width:400px; max-width:100%; border-radius:10px;">
     <p style="font-size: 0.85rem; color: #9ca3af; margin-top:8px;">
-      Full dashboard showing filtering, mapping, and visualization features working together.
+      Dashboard homepage showing navigation between Dashboard, Analytics, and Admin Login pages.
     </p>
   </div>
 
   <div style="width:45%; text-align:center;">
-    <img src="assets/admin_login.png" style="width:100%; max-width:420px; border-radius:10px;">
+    <img src="assets/admin_login.png" style="width:400px; max-width:100%; border-radius:10px;">
     <p style="font-size: 0.85rem; color: #9ca3af; margin-top:8px;">
       Admin login required before accessing secure features.
     </p>
   </div>
 
   <div style="width:45%; text-align:center;">
-    <img src="assets/create_record.png" style="width:100%; max-width:420px; border-radius:10px;">
+    <img src="assets/create_record.png" style="width:400px; max-width:100%; border-radius:10px;">
     <p style="font-size: 0.85rem; color: #9ca3af; margin-top:8px;">
       Create record form demonstrating structured data input.
     </p>
   </div>
 
   <div style="width:45%; text-align:center;">
-    <img src="assets/edit_delete.png" style="width:100%; max-width:420px; border-radius:10px;">
+    <img src="assets/edit_delete.png" style="width:400px; max-width:100%; border-radius:10px;">
     <p style="font-size: 0.85rem; color: #9ca3af; margin-top:8px;">
       Edit and delete functionality for managing existing records.
     </p>
