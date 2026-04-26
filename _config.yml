@@ -1,31 +1,13 @@
 title: CS499 ePortfolio
-description: CS499 Computer Science Capstone ePortfolio
+description: Computer Science Capstone Portfolio
 
 remote_theme: just-the-docs/just-the-docs
 
-color_scheme: light
+color_scheme: dark
 
-nav_enabled: true
 search_enabled: false
+nav_enabled: true
 
-nav:
-  - title: Home
-    url: /
-
-  - title: Professional Self-Assessment
-    url: /#professional-self-assessment
-
-  - title: Code Review
-    url: /#code-review
-
-  - title: Artifact One – Software Engineering
-    url: /#artifact-one
-
-  - title: Artifact Two – Algorithms & Data Structures
-    url: /#artifact-two
-
-  - title: Artifact Three – Databases
-    url: /#artifact-three
-
-  - title: GitHub
-    url: https://github.com/Jerris88
+aux_links:
+  GitHub:
+    - https://github.com/Jerris88
