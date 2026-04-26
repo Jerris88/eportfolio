@@ -42,34 +42,47 @@ nav_order: 3
 
 <h2>Screenshots</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
+<table style="width:100%; border-collapse:collapse; border:none;">
 
-  <div style="flex: 0 0 45%; text-align:center;">
-    <img src="assets/dashboard_overview.png" style="width:100%; max-width:380px; border-radius:10px;">
-    <p style="font-size: 0.8rem; color: #9ca3af; margin-top:6px; max-width:380px; margin-left:auto; margin-right:auto;">
-      Dashboard homepage showing navigation between Dashboard, Analytics, and Admin Login pages.
-    </p>
-  </div>
+<tr>
+<td style="width:50%; text-align:center; padding:10px; border:none;">
+<img src="assets/dashboard_overview.png" width="320" style="border-radius:10px;">
+<p style="font-size:0.75rem; color:#9ca3af; line-height:1.3; margin:8px auto 0 auto; max-width:320px;">
+Dashboard homepage showing navigation between Dashboard, Analytics, and Admin Login pages.
+</p>
+</td>
 
-  <div style="flex: 0 0 45%; text-align:center;">
-    <img src="assets/admin_login.png" style="width:100%; max-width:380px; border-radius:10px;">
-    <p style="font-size: 0.8rem; color: #9ca3af; margin-top:6px; max-width:380px; margin-left:auto; margin-right:auto;">
-      Admin login required before accessing secure features.
-    </p>
-  </div>
+<td style="width:50%; text-align:center; padding:10px; border:none;">
+<img src="assets/analytics_page.png" width="320" style="border-radius:10px;">
+<p style="font-size:0.75rem; color:#9ca3af; line-height:1.3; margin:8px auto 0 auto; max-width:320px;">
+Analytics page added as part of the application expansion, showing filters, scorecards, and visualizations in one dashboard.
+</p>
+</td>
+</tr>
 
-  <div style="flex: 0 0 45%; text-align:center;">
-    <img src="assets/create_record.png" style="width:100%; max-width:380px; border-radius:10px;">
-    <p style="font-size: 0.8rem; color: #9ca3af; margin-top:6px; max-width:380px; margin-left:auto; margin-right:auto;">
-      Create record form demonstrating structured data input.
-    </p>
-  </div>
+<tr>
+<td style="width:50%; text-align:center; padding:10px; border:none;">
+<img src="assets/admin_login.png" width="320" style="border-radius:10px;">
+<p style="font-size:0.75rem; color:#9ca3af; line-height:1.3; margin:8px auto 0 auto; max-width:320px;">
+Admin login required before accessing secure features.
+</p>
+</td>
 
-  <div style="flex: 0 0 45%; text-align:center;">
-    <img src="assets/edit_delete.png" style="width:100%; max-width:380px; border-radius:10px;">
-    <p style="font-size: 0.8rem; color: #9ca3af; margin-top:6px; max-width:380px; margin-left:auto; margin-right:auto;">
-      Edit and delete functionality for managing existing records.
-    </p>
-  </div>
+<td style="width:50%; text-align:center; padding:10px; border:none;">
+<img src="assets/create_record.png" width="320" style="border-radius:10px;">
+<p style="font-size:0.75rem; color:#9ca3af; line-height:1.3; margin:8px auto 0 auto; max-width:320px;">
+Create record form demonstrating structured data input.
+</p>
+</td>
+</tr>
 
-</div>
+<tr>
+<td colspan="2" style="text-align:center; padding:10px; border:none;">
+<img src="assets/edit_delete.png" width="360" style="border-radius:10px;">
+<p style="font-size:0.75rem; color:#9ca3af; line-height:1.3; margin:8px auto 0 auto; max-width:360px;">
+Edit and delete functionality for managing existing records.
+</p>
+</td>
+</tr>
+
+</table>
