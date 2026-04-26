@@ -41,3 +41,29 @@ nav_order: 5
 <p>Overall, this experience strengthened my understanding of how to structure and process data within a database. It also showed me the value of moving data processing closer to the database layer, which improves efficiency and supports more advanced analytics. These skills are directly applicable to real-world data analysis and backend development.</p>
 
 </div>
+
+<hr style="border: none; height: 1px; background: #374151; margin: 35px 0;">
+
+<h2>Screenshots</h2>
+
+<table style="width:100%; border-collapse:collapse;">
+
+<tr>
+
+<td style="width:50%; text-align:center; padding:10px;">
+<img src="assets/outcome_summary_metrics.png" width="320" style="border-radius:10px;">
+<p style="font-size:0.75rem; color:#9ca3af; margin-top:8px;">
+Outcome summary metrics calculated using MongoDB aggregation pipelines, demonstrating how grouped data and percentage calculations are performed at the database level.
+</p>
+</td>
+
+<td style="width:50%; text-align:center; padding:10px;">
+<img src="assets/age_group_distribution.png" width="320" style="border-radius:10px;">
+<p style="font-size:0.75rem; color:#9ca3af; margin-top:8px;">
+Age group distribution created by grouping and categorizing records within the database, showing how structured data is prepared before being returned for visualization.
+</p>
+</td>
+
+</tr>
+
+</table>
