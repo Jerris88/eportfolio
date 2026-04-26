@@ -1,41 +1,17 @@
-<p align="center">
-  <img src="assets/profile.JPG" width="140" style="border-radius: 12px;">
-</p>
+<div style="text-align: center; margin-bottom: 40px;">
 
-<p align="center">
-  <strong>Jerris English</strong><br>
-  Computer Science | Data Analysis | Software Development
-</p>
+  <img src="assets/profile.JPG" width="150" style="border-radius: 12px; margin-bottom: 20px;">
 
+  <h2 style="margin-bottom: 5px;">Jerris English</h2>
 
-## Computer Science Capstone ePortfolio
+  <p style="margin-top: 0; color: #9ca3af;">
+    SNHU Computer Science Major
+  </p>
 
-Welcome to my CS499 ePortfolio. This portfolio highlights the growth of my original Grazioso Salvare dashboard project and shows the enhancements I made in software design, algorithms and data structures, and databases.
+</div>
 
 ---
 
-## Professional Self-Assessment
+## Introduction
 
-Coming soon.
-
----
-
-## Code Review
-
-Coming soon.
-
----
-
-## Artifacts
-
-### Software Design and Engineering
-
-Coming soon.
-
-### Algorithms and Data Structures
-
-Coming soon.
-
-### Databases
-
-Coming soon.
+*This section will introduce the portfolio and its purpose.*
