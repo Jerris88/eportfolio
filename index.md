@@ -7,7 +7,6 @@
   Computer Science | Data Analysis | Software Development
 </p>
 
-# Jerris English
 
 ## Computer Science Capstone ePortfolio
 
