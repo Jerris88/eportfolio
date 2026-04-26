@@ -10,13 +10,37 @@ nav_order: 3
 
 <h2>Software Design and Engineering</h2>
 
+<img src="assets/dashboard_overview.png" style="width:85%; display:block; margin: 0 auto 10px auto; border-radius:10px;">
+
+<p style="text-align:center; font-size: 0.9rem; color: #9ca3af; margin-bottom:25px;">
+This dashboard view shows the full application with filtering, mapping, and visualization features working together.
+</p>
+
+<img src="assets/admin_login.png" style="width:85%; display:block; margin: 0 auto 10px auto; border-radius:10px;">
+
+<p style="text-align:center; font-size: 0.9rem; color: #9ca3af; margin-bottom:25px;">
+This login page shows the authentication step required before accessing the administrative features.
+</p>
+
 <p>This artifact focuses on improving my Grazioso Salvare dashboard application through software design and engineering enhancements. The project was originally developed in a Jupyter Notebook for my CS-340 Client/Server Development course and connected to a MongoDB database. It included basic data filtering and visualization, along with a separate Python file used for CRUD operations and database access. The interface featured a geolocation map, scrollable data table, breed distribution chart, and radio button filters for rescue categories.</p>
 
 <hr style="border: none; height: 1px; background: #374151; margin: 28px 0;">
 
 <h2>Enhancement Overview</h2>
 
+<img src="assets/create_record.png" style="width:85%; display:block; margin: 0 auto 10px auto; border-radius:10px;">
+
+<p style="text-align:center; font-size: 0.9rem; color: #9ca3af; margin-bottom:25px;">
+This create record page shows the structured admin form used to add new animal records to the database.
+</p>
+
 <p>I selected this project because it already functioned as a basic Dash application and gave me a strong starting point to build into something more complete. The original version showed that I could connect to MongoDB, manage data through CRUD operations, and create interactive visualizations. At the same time, it was limited by its structure and overall organization.</p>
+
+<img src="assets/edit_delete.png" style="width:85%; display:block; margin: 0 auto 10px auto; border-radius:10px;">
+
+<p style="text-align:center; font-size: 0.9rem; color: #9ca3af; margin-bottom:25px;">
+This edit and delete view shows how administrators can manage existing records directly through the application interface.
+</p>
 
 <p>To address those limitations, I moved the project out of Jupyter and rebuilt it in Visual Studio Code. A major part of this enhancement was modularization. I separated the application into different components, including dashboard views, admin functionality, database access, and service layers. This made the code easier to manage and made it possible to add new features without breaking the parts that already worked.</p>
 
